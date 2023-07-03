@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cc3165a6-8f67-4066-9d1f-0b74773955d3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/componentsWorkshop/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/componentsWorkshop/.idea/componentsWorkshop.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/componentsWorkshop/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/componentsWorkshop/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/componentsWorkshop/Rest-api/.gitattributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/componentsWorkshop/Rest-api/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/componentsWorkshop/Rest-api/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/componentsWorkshop/Rest-api/.idea/Rest-api.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/componentsWorkshop/Rest-api/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/componentsWorkshop/Rest-api/.vscode/launch.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/componentsWorkshop/Rest-api/app-config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/componentsWorkshop/Rest-api/config/config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/componentsWorkshop/Rest-api/config/db.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/componentsWorkshop/Rest-api/config/express.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/componentsWorkshop/Rest-api/controllers/auth.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/componentsWorkshop/Rest-api/controllers/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/componentsWorkshop/Rest-api/controllers/postController.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/componentsWorkshop/Rest-api/controllers/themeController.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/componentsWorkshop/Rest-api/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/componentsWorkshop/Rest-api/models/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/componentsWorkshop/Rest-api/models/postModel.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/componentsWorkshop/Rest-api/models/themeModel.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/componentsWorkshop/Rest-api/models/tokenBlacklistModel.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/componentsWorkshop/Rest-api/models/userModel.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/componentsWorkshop/Rest-api/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/componentsWorkshop/Rest-api/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/componentsWorkshop/Rest-api/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/componentsWorkshop/Rest-api/router/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/componentsWorkshop/Rest-api/router/likes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/componentsWorkshop/Rest-api/router/posts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/componentsWorkshop/Rest-api/router/test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/componentsWorkshop/Rest-api/router/themes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/componentsWorkshop/Rest-api/router/users.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/componentsWorkshop/Rest-api/utils/auth.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/componentsWorkshop/Rest-api/utils/errHandler.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/componentsWorkshop/Rest-api/utils/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/componentsWorkshop/Rest-api/utils/jwt.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2S3MNYYWHRKsUs9pC1IQIl6guBk" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/home/vepaks/WebstormProjects/angularWorkshops/componentsWorkshop",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cc3165a6-8f67-4066-9d1f-0b74773955d3" name="Changes" comment="" />
+      <created>1688370772165</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1688370772165</updated>
+      <workItem from="1688370779134" duration="612000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
