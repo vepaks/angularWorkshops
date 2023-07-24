@@ -5,43 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cc3165a6-8f67-4066-9d1f-0b74773955d3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/componentsWorkshop/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/componentsWorkshop/.idea/componentsWorkshop.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/componentsWorkshop/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/componentsWorkshop/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/componentsWorkshop/Rest-api/.gitattributes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/componentsWorkshop/Rest-api/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/componentsWorkshop/Rest-api/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/componentsWorkshop/Rest-api/.idea/Rest-api.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/componentsWorkshop/Rest-api/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/componentsWorkshop/Rest-api/.vscode/launch.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/componentsWorkshop/Rest-api/app-config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/componentsWorkshop/Rest-api/config/config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/componentsWorkshop/Rest-api/config/db.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/componentsWorkshop/Rest-api/config/express.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/componentsWorkshop/Rest-api/controllers/auth.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/componentsWorkshop/Rest-api/controllers/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/componentsWorkshop/Rest-api/controllers/postController.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/componentsWorkshop/Rest-api/controllers/themeController.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/componentsWorkshop/Rest-api/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/componentsWorkshop/Rest-api/models/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/componentsWorkshop/Rest-api/models/postModel.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/componentsWorkshop/Rest-api/models/themeModel.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/componentsWorkshop/Rest-api/models/tokenBlacklistModel.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/componentsWorkshop/Rest-api/models/userModel.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/componentsWorkshop/Rest-api/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/componentsWorkshop/Rest-api/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/componentsWorkshop/Rest-api/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/componentsWorkshop/Rest-api/router/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/componentsWorkshop/Rest-api/router/likes.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/componentsWorkshop/Rest-api/router/posts.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/componentsWorkshop/Rest-api/router/test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/componentsWorkshop/Rest-api/router/themes.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/componentsWorkshop/Rest-api/router/users.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/componentsWorkshop/Rest-api/utils/auth.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/componentsWorkshop/Rest-api/utils/errHandler.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/componentsWorkshop/Rest-api/utils/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/componentsWorkshop/Rest-api/utils/jwt.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,11 +29,12 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "/home/vepaks/WebstormProjects/angularWorkshops/componentsWorkshop",
+    "last_opened_file_path": "/home/vepaks/WebstormProjects/angularWorkshops",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -82,6 +47,8 @@
       <option name="presentableId" value="Default" />
       <updated>1688370772165</updated>
       <workItem from="1688370779134" duration="612000" />
+      <workItem from="1690189579179" duration="86000" />
+      <workItem from="1690189708310" duration="99000" />
     </task>
     <servers />
   </component>
